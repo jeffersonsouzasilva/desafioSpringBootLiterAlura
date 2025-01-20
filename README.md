@@ -85,7 +85,7 @@ Ao receber os dados da API, convertemos o JSON para objetos Java utilizando as a
 
 1. **Clonar o Repositório**:
     ```bash
-    git clone 
+    git clone https://github.com/jeffersonsouzasilva/desafioSpringBootLiterAlura.git
     ```
 
 2. **Abrir o Projeto no IntelliJ**:
